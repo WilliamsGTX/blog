@@ -2,7 +2,7 @@
 layout: post
 title: Fundamentos de Ingenieria de Software
 tags: Parcial
-stickie: true
+stickie: false
 ---
 
 Definición de IG!<br>Fritz Bauer, 1969: Más que una disciplina o una parte del
