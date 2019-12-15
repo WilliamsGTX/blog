@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Billboard
+title: Redes sociales
 tagline: Biu~
 ---
 
