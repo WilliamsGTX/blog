@@ -2,8 +2,5 @@
 layout: page
 title: Redes sociales
 tagline: Biu~
+permalink: pages/redessociales.html
 ---
-
-<div style="text-align:center">:shit:nothing...</div>
-
-[返回主页]({{ site.url }})
