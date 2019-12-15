@@ -3,7 +3,7 @@ layout: post
 title: Fundamentos de Ingenieria de Software
 tags: Parcial
 stickie: false
-permalink: /blog/2019-12-15-redes-sociales.md
+permalink: /blog/2019-12-15-redes-sociales.html
 ---
 
 Información:<br>Mi nombre es Williams Geovanny Carrillo Fuentes, estudio en la Universidad de Guayaquil, actualmente estoy cursando primer semestre.</p>
