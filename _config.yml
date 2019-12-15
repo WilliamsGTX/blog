@@ -1,13 +1,11 @@
-title: Williams Geovanny Carrillo Fuentes #博客标题
-description: Blog de estudiante dedicado a organizar todos los temas del primer parcial. #博客描述
+title: Blog de estudiante #博客标题
+description: Estudiante de la Universidad de Guayaquil. #博客描述
 keywords: blog,css,html,php #博客关键字
-author: "Link"
+author: "Williams Geovanny Carrillo Fuentes"
 
-
-hide: (つェ⊂)Abreme 
-show: ´∇｀ Holi
-
-
+#title hide and show
+hide: (つェ⊂) Oculto----
+show: ´∇｀ Holas-------
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
@@ -19,7 +17,7 @@ PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议�
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
-background: https://www.muycomputer.com/wp-content/uploads/2019/01/lenguaje-de-programaci%C3%B3n.jpg
+background: https://api.dujin.org/bing/1920.php
 theme_color: 546E7A
 
 google_analytics:
@@ -37,10 +35,10 @@ plugins:
 
 # social account
 image:
-twitter: 
-  username: 
+twitter:
+  username:
 #  site:
-facebook: https://www.facebook.com/beyonddreams1
+facebook:
   #publisher: null
   #profile_id: null
   app_id: null
